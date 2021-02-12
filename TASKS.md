@@ -5,7 +5,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * Your company's name: AvarMed
 ***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 3391
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):  339113
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
