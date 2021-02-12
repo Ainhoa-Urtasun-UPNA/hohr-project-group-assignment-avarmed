@@ -13,7 +13,9 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/): 4470
 ***
-* List of your company's primary activities divided into engineering activities and operations activities: engeneering activities: design of the prothesic according to the patient's needs, innovate in more efficient designs. Operations activities: 3-print the prothesics, build the prothesic once it is printed.
+* List of your company's primary activities divided into engineering activities and operations activities: 
+engeneering activities: design of the prothesic according to the patient's needs, innovate in more efficient designs. 
+Operations activities: 3-print the prothesics, build the prothesic once it is printed.
 ***
 * List of your company's support activities: secretary (communication with the clients), financial accounting, marketing, human resources, graphic design, machinery maintenance
 ***
