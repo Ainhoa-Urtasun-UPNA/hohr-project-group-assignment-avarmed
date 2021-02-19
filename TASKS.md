@@ -26,81 +26,81 @@ Operations activities: 3-print the prothesics, build the prothesic once it is pr
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title: 15-2051.02 - Clinical Data Managers
-* 5 most important tasks they carry out (provide the importance score, in Details): 
+* __ONET-SOC code and title:__ 15-2051.02 - Clinical Data Managers
+* __5 most important tasks they carry out (provide the importance score, in Details): 
     * Design and validate clinical databases, including designing or testing logic checks.See more occupations related to this task. 
     * Process clinical data, including receipt, entry, verification, or filing of information.See more occupations related to this task.
     * Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.See more occupations related to this task.
     * Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.See more occupations related to this task.
    * Monitor work productivity or quality to ensure compliance with standard operating procedures.
-* Is this job routine? Your judgment (0-10): 7, because even if the manager have to manage the information of diverse patients with different pathologies and different needs, the managerial tasks don't change.
-* Is this job cognitive? Your judgment (0-10): 9, because the manager needs to use more the intelectual skills rather than the physical ones.
+* __Is this job routine? Your judgment (0-10):__ 7, because even if the manager have to manage the information of diverse patients with different pathologies and different needs, the managerial tasks don't change.
+* __Is this job cognitive? Your judgment (0-10):__ 9, because the manager needs to use more the intelectual skills rather than the physical ones.
 * 5 most important skills they require to possess (provide the importance score, in Details): 
    * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
    * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
    * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
    * Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
    * Writing — Communicating effectively in writing as appropriate for the needs of the audience
-* 5 technology skills: 
+* __5 technology skills: 
    * Analytical or scientific software 
    * Electronic data capture EDC software; IBM SPSS Statistics Hot technology ; Oracle Remote Data Capture; SAS Hot technology
    * Data base reporting software —Oracle SQL Loader; SAP BusinessObjects Crystal Reports; SAP Crystal Reports Hot technology
    * Data base user interface and query software — Clinical trial management software; Microsoft Access Hot technology ; Patient tracking software; Phase Forward Clintrial
    * Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software Hot technology
-* Education: Bachelor's degree, Associate's degree, Post-baccalaureate certificate
-* Wages: $45.33 hourly, $94,280 annual  
-* Top industry: Professional, Scientific, and Technical Services
+* __Education:__ Bachelor's degree, Associate's degree, Post-baccalaureate certificate
+* __Wages:__ $45.33 hourly, $94,280 annual  
+* __Top industry:__ Professional, Scientific, and Technical Services
 Finance and Insurance
 ### Engineers
-* ONET-SOC code and title: 17-2031.00 - Bioengineers and Biomedical Engineers
-* 5 most important tasks they carry out (provide the importance score, in Details): 
+* __ONET-SOC code and title:__ 17-2031.00 - Bioengineers and Biomedical Engineers
+* __5 most important tasks they carry out (provide the importance score, in Details): 
    * Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals.
    * Adapt or design computer hardware or software for medical science uses.
    * Evaluate the safety, efficiency, and effectiveness of biomedical equipment.
    * Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.
    * Research new materials to be used for products, such as implanted artificial organs.  
-* _Is this job routine? Your judgment (0-10):_ 4/10 because even though they have to follow a method, their work consists on solving different problems, so they cannot stablish a routine for performing their tasks.
-* Is this job cognitive? Your judgment (0-10): 5/10 because they have to use software that is already programmed, but they have to adapt those software to the information and data they are given. 
-* 5 most important skills they require to possess (provide the importance score, in Details): 
+* __Is this job routine? Your judgment (0-10):__ 4/10 because even though they have to follow a method, their work consists on solving different problems, so they cannot stablish a routine for performing their tasks.
+* __Is this job cognitive? Your judgment (0-10):__ 5/10 because they have to use software that is already programmed, but they have to adapt those software to the information and data they are given. 
+* __5 most important skills they require to possess (provide the importance score, in Details): 
    * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
    * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
    * Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
    * Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
    * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
-* 5 technology skills: 
+* __5 technology skills: 
    * Analytical or scientific software — ANSYS; SAS Hot technology ; Stratasys FDM MedModeler; The MathWorks MATLAB Hot technology
    * Computer aided design CAD software Hot technology — Autodesk AutoCAD Hot technology ; Dassault Systemes SOLIDWORKS Hot technology ; PTC Creo Elements/Pro; Zuken
    * Development environment software — Hardware description language HDL; Integrated development environment IDE software Hot technology ; Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technology
    * Medical software — Electromyograph analysis software; Gait analysis software; Medical information software; Virtual instrument software
    * Operating system software — Linux Hot technology ; Microsoft operating system; Microsoft Windows Hot technology ; Red Hat Enterprise Linux Hot technology
-* Education: Bachelor's degree/ Master's Degree / Doctoral Degree
-* Wages: $43.95 hourly, $91,410 annual
-* Top industry: Manufacturing, Professional, Scientific, and Technical Services
+* __Education:__ Bachelor's degree/ Master's Degree / Doctoral Degree
+* __Wages:__ $43.95 hourly, $91,410 annual
+* __Top industry:__ Manufacturing, Professional, Scientific, and Technical Services
 ### Operators
-* ONET-SOC code and title: 29-2034.00 - Radiologic Technologists and Technicians
-* 5 most important tasks they carry out (provide the importance score, in Details):
+* __ONET-SOC code and title:__ 29-2034.00 - Radiologic Technologists and Technicians
+* __5 most important tasks they carry out (provide the importance score, in Details):
    * Review and evaluate developed x-rays, video tape, or computer-generated information to determine if images are satisfactory for diagnostic purposes.
    * Operate or oversee operation of radiologic or magnetic imaging equipment to produce images of the body for diagnostic purposes.
    * Position patient on examining table and set up and adjust equipment to obtain optimum view of specific body area as requested by physician.
    * Process exposed radiographs using film processors or computer generated methods.
    * Use radiation safety measures and protection devices to comply with government regulations and to ensure safety of patients and staff.
-* Is this job routine? Your judgment (0-10): 7. Even if technically complex, these operators work upon processes that are predetermined. They only need to have the knowledge to carry that process out for each pacient, facing different medical issues, all within their area of expertise. 
-* Is this job cognitive? Your judgment (0-10): 3. Despite that each pacient will mean the need for a different diagnose, and that many will present medical particularities that will require cognitive efforts to diagnose, they do not need to invent, or be creative in almost any way. 
-* 5 most important skills they require to possess (provide the importance score, in Details):
+* __Is this job routine? Your judgment (0-10):__ 7. Even if technically complex, these operators work upon processes that are predetermined. They only need to have the knowledge to carry that process out for each pacient, facing different medical issues, all within their area of expertise. 
+* __Is this job cognitive? Your judgment (0-10):__ 3. Despite that each pacient will mean the need for a different diagnose, and that many will present medical particularities that will require cognitive efforts to diagnose, they do not need to invent, or be creative in almost any way. 
+* __5 most important skills they require to possess (provide the importance score, in Details):
    * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
    * Speaking — Talking to others to convey information effectively.
    * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
    * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
    * Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.
-* 5 technology skills:
+* __5 technology skills:
    * Categorization or classification software — Diagnostic and procedural coding software
    * Medical software — Information management subsystem software; Medical procedure coding software; MEDITECH software Hot technology ; Virtual reality computed tomography CT imaging software
    * Office suite software 
    * Spreadsheet software 
    * Word processing software
-* Education: Medium Preparation Needed. Most occupations in this zone require training in vocational schools, related on-the-job experience, or an associate's degree.
-* Wages: Median wages (2019)	$29.09 hourly, $60,510 annual
-* Top industry: Health Care and Social Assistance
+* __Education:__ Medium Preparation Needed. Most occupations in this zone require training in vocational schools, related on-the-job experience, or an associate's degree.
+* __Wages:__ Median wages (2019)	$29.09 hourly, $60,510 annual
+* __Top industry:__ Health Care and Social Assistance
 ***
 
 ## Task 3
