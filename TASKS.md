@@ -45,7 +45,7 @@ Data base reporting software — Oracle SQL Loader; SAP BusinessObjects Crystal 
 Data base user interface and query software — Clinical trial management software; Microsoft Access Hot technology ; Patient tracking software; Phase Forward ClintrialSee more occupations related to this technology.
 Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software Hot technologySee more occupations related to this technology.
 Object or component oriented development software
-* Education:
+* Education: Bachelor's degree, Associate's degree, Post-baccalaureate certificate
 * Wages:
 * Top industry:
 ### Engineers
