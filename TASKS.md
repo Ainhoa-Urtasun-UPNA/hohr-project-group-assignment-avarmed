@@ -96,7 +96,7 @@ Operating system software — Linux Hot technology ; Microsoft operating system;
 3. Office suite software 
 4. Spreadsheet software 
 5. Word processing software
-* Education: Most occupations in this zone require training in vocational schools, related on-the-job experience, or an associate's degree.
+* Education: Medium Preparation Needed. Most occupations in this zone require training in vocational schools, related on-the-job experience, or an associate's degree.
 * Wages: Median wages (2019)	$29.09 hourly, $60,510 annual
 * Top industry: Health Care and Social Assistance
 ***
