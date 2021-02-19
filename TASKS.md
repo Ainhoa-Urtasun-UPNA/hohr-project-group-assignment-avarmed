@@ -59,7 +59,7 @@ Finance and Insurance
    * Evaluate the safety, efficiency, and effectiveness of biomedical equipment.
    * Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.
    * Research new materials to be used for products, such as implanted artificial organs.  
-* Is this job routine? Your judgment (0-10): 4/10 because even though they have to follow a method, their work consists on solving different problems, so they cannot stablish a routine for performing their tasks.
+* _Is this job routine? Your judgment (0-10):_ 4/10 because even though they have to follow a method, their work consists on solving different problems, so they cannot stablish a routine for performing their tasks.
 * Is this job cognitive? Your judgment (0-10): 5/10 because they have to use software that is already programmed, but they have to adapt those software to the information and data they are given. 
 * 5 most important skills they require to possess (provide the importance score, in Details): 
    * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
