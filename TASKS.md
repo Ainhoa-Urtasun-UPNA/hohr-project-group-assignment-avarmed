@@ -5,7 +5,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 * Your company's name: AvarMed
 ***
-*Product of the Company: We design and manufacture several external prosthetics, including leg, arm and hand prosthetics
+* Product of the Company: We design and manufacture several external prosthetics, including leg, arm and hand prosthetics
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):  339113. Description provided by NAICS: "This U.S. industry comprises establishments primarily engaged in manufacturing surgical appliances and supplies. Examples of products made by these establishments are orthopedic devices, prosthetic appliances, surgical dressings, crutches, surgical sutures, personal industrial safety devices (except protective eyewear), hospital beds, and operating room tables".
 
