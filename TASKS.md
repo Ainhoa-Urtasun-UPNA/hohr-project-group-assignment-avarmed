@@ -28,25 +28,25 @@ Operations activities: 3-print the prothesics, build the prothesic once it is pr
 ### Managers
 * __ONET-SOC code and title:__ 15-2051.02 - Clinical Data Managers
 * __5 most important tasks they carry out (provide the importance score, in Details):__ 
-    * Design and validate clinical databases, including designing or testing logic checks.See more occupations related to this task. 
-    * Process clinical data, including receipt, entry, verification, or filing of information.See more occupations related to this task.
-    * Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.See more occupations related to this task.
-    * Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.See more occupations related to this task.
-   * Monitor work productivity or quality to ensure compliance with standard operating procedures.
+    * Design and validate clinical databases, including designing or testing logic checks. 
+    * Process clinical data, including receipt, entry, verification, or filing of information.
+    * Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.
+    * Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.S
+    * Monitor work productivity or quality to ensure compliance with standard operating procedures.
 * __Is this job routine? Your judgment (0-10):__ 7, because even if the manager have to manage the information of diverse patients with different pathologies and different needs, the managerial tasks don't change.
 * __Is this job cognitive? Your judgment (0-10):__ 9, because the manager needs to use more the intelectual skills rather than the physical ones.
 * __5 most important skills they require to possess (provide the importance score, in Details):__ 
-   * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
-   * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
-   * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+   * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+   * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+   * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
    * Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
    * Writing — Communicating effectively in writing as appropriate for the needs of the audience
 * __5 technology skills:__ 
-   * Analytical or scientific software 
-   * Electronic data capture EDC software; IBM SPSS Statistics Hot technology ; Oracle Remote Data Capture; SAS Hot technology
-   * Data base reporting software —Oracle SQL Loader; SAP BusinessObjects Crystal Reports; SAP Crystal Reports Hot technology
+   * Analytical or scientific software - Electronic data capture EDC software; IBM SPSS Statistics ; Oracle Remote Data Capture; SAS 
+   * Data base reporting software —Oracle SQL Loader; SAP BusinessObjects Crystal Reports; SAP Crystal Reports 
    * Data base user interface and query software — Clinical trial management software; Microsoft Access Hot technology ; Patient tracking software; Phase Forward Clintrial
-   * Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software Hot technology
+   * Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software 
+   * Object or component oriented development software — C# ; C++ ; Oracle Java 
 * __Education:__ Bachelor's degree, Associate's degree, Post-baccalaureate certificate
 * __Wages:__ $45.33 hourly, $94,280 annual  
 * __Top industry:__ Professional, Scientific, and Technical Services
@@ -69,11 +69,11 @@ Finance and Insurance
    * Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
    * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
 * __5 technology skills:__
-   * Analytical or scientific software — ANSYS; SAS Hot technology ; Stratasys FDM MedModeler; The MathWorks MATLAB Hot technology
-   * Computer aided design CAD software Hot technology — Autodesk AutoCAD Hot technology ; Dassault Systemes SOLIDWORKS Hot technology ; PTC Creo Elements/Pro; Zuken
-   * Development environment software — Hardware description language HDL; Integrated development environment IDE software Hot technology ; Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technology
+   * Analytical or scientific software — ANSYS; SAS ; Stratasys FDM MedModeler; The MathWorks MATLAB 
+   * Computer aided design CAD software — Autodesk AutoCAD ; Dassault Systemes SOLIDWORKS ; PTC Creo Elements/Pro; Zuken
+   * Development environment software — Hardware description language HDL; Integrated development environment IDE software ; Microsoft Visual Basic ; National Instruments LabVIEW 
    * Medical software — Electromyograph analysis software; Gait analysis software; Medical information software; Virtual instrument software
-   * Operating system software — Linux Hot technology ; Microsoft operating system; Microsoft Windows Hot technology ; Red Hat Enterprise Linux Hot technology
+   * Operating system software — Linux ; Microsoft operating system; Microsoft Windows ; Red Hat Enterprise Linux 
 * __Education:__ Bachelor's degree/ Master's Degree / Doctoral Degree
 * __Wages:__ $43.95 hourly, $91,410 annual
 * __Top industry:__ Manufacturing, Professional, Scientific, and Technical Services
@@ -96,7 +96,7 @@ Finance and Insurance
    * Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.
 * __5 technology skills:__
    * Categorization or classification software — Diagnostic and procedural coding software
-   * Medical software — Information management subsystem software; Medical procedure coding software; MEDITECH software Hot technology ; Virtual reality computed tomography CT imaging software
+   * Medical software — Information management subsystem software; Medical procedure coding software; MEDITECH software ; Virtual reality computed tomography CT imaging software
    * Office suite software 
    * Spreadsheet software 
    * Word processing software
