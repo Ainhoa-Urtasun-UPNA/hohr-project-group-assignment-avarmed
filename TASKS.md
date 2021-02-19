@@ -70,7 +70,7 @@ Computer aided design CAD software Hot technology — Autodesk AutoCAD Hot techn
 Development environment software — Hardware description language HDL; Integrated development environment IDE software Hot technology ; Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technologySee more occupations related to this technology.
 Medical software — Electromyograph analysis software; Gait analysis software; Medical information software; Virtual instrument softwareSee more occupations related to this technology.
 Operating system software — Linux Hot technology ; Microsoft operating system; Microsoft Windows Hot technology ; Red Hat Enterprise Linux Hot technology
-* Education: 
+* Education: Bachelor's degree/ 
 * Wages:
 * Top industry:
 ### Operators
