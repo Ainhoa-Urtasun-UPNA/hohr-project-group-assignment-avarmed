@@ -28,9 +28,9 @@ Operations activities: 3-print the prothesics, build the prothesic once it is pr
 ### Managers
 * ONET-SOC code and title: 15-2051.02 - Clinical Data Managers
 * 5 most important tasks they carry out (provide the importance score, in Details): 
-    *. Design and validate clinical databases, including designing or testing logic checks.See more occupations related to this task. 
-    *. Process clinical data, including receipt, entry, verification, or filing of information.See more occupations related to this task.
-    *. Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.See more occupations related to this task.
+    *.Design and validate clinical databases, including designing or testing logic checks.See more occupations related to this task. 
+    *.Process clinical data, including receipt, entry, verification, or filing of information.See more occupations related to this task.
+    *.Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.See more occupations related to this task.
     *4.Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.See more occupations related to this task.
    *5.Monitor work productivity or quality to ensure compliance with standard operating procedures.
 * Is this job routine? Your judgment (0-10): 6, because even if the manager have to manage the information of diverse patients with different pathologies and different needs, the managerial tasks don't change.
