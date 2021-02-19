@@ -40,23 +40,37 @@ Active Listening — Giving full attention to what other people are saying, taki
 Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
 Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
 Writing — Communicating effectively in writing as appropriate for the needs of the audience
-* 5 technology skills: Analytical or scientific software — Electronic data capture EDC software; IBM SPSS Statistics Hot technology ; Oracle Remote Data Capture; SAS Hot technologySee more occupations related to this technology.
-Data base reporting software — Oracle SQL Loader; SAP BusinessObjects Crystal Reports; SAP Crystal Reports Hot technologySee more occupations related to this technology.
+* 5 technology skills: 
+* Analytical or scientific software 
+* — Electronic data capture EDC software; IBM SPSS Statistics Hot technology ; Oracle Remote Data Capture; SAS Hot technologySee more occupations related to this technology.
+Data base reporting software
+— Oracle SQL Loader; SAP BusinessObjects Crystal Reports; SAP Crystal Reports Hot technologySee more occupations related to this technology.
 Data base user interface and query software — Clinical trial management software; Microsoft Access Hot technology ; Patient tracking software; Phase Forward ClintrialSee more occupations related to this technology.
-Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software Hot technologySee more occupations related to this technology.
-Object or component oriented development software
+Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software Hot technology
 * Education: Bachelor's degree, Associate's degree, Post-baccalaureate certificate
 * Wages: $45.33 hourly, $94,280 annual  
 * Top industry: Professional, Scientific, and Technical Services
 Finance and Insurance
 ### Engineers
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
+* ONET-SOC code and title: 17-2031.00 - Bioengineers and Biomedical Engineers
+* 5 most important tasks they carry out (provide the importance score, in Details): Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals.See more occupations related to this task.
+Adapt or design computer hardware or software for medical science uses.See more occupations related to this task.
+Evaluate the safety, efficiency, and effectiveness of biomedical equipment.See more occupations related to this task.
+Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.See more occupations related to this task.
+Research new materials to be used for products, such as implanted artificial organs.  
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills
-* Education:
+* 5 most important skills they require to possess (provide the importance score, in Details): Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
+Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.See more occupations related to this skill.
+Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.See more occupations related to this skill.
+Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+* 5 technology skills: Analytical or scientific software — ANSYS; SAS Hot technology ; Stratasys FDM MedModeler; The MathWorks MATLAB Hot technologySee more occupations related to this technology.
+Computer aided design CAD software Hot technology — Autodesk AutoCAD Hot technology ; Dassault Systemes SOLIDWORKS Hot technology ; PTC Creo Elements/Pro; ZukenSee more occupations related to this technology.
+Development environment software — Hardware description language HDL; Integrated development environment IDE software Hot technology ; Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technologySee more occupations related to this technology.
+Medical software — Electromyograph analysis software; Gait analysis software; Medical information software; Virtual instrument softwareSee more occupations related to this technology.
+Operating system software — Linux Hot technology ; Microsoft operating system; Microsoft Windows Hot technology ; Red Hat Enterprise Linux Hot technology
+* Education: 
 * Wages:
 * Top industry:
 ### Operators
