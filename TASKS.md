@@ -47,7 +47,8 @@ Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software
 Object or component oriented development software
 * Education: Bachelor's degree, Associate's degree, Post-baccalaureate certificate
 * Wages: $45.33 hourly, $94,280 annual  
-* Top industry:
+* Top industry: Professional, Scientific, and Technical Services
+Finance and Insurance
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
