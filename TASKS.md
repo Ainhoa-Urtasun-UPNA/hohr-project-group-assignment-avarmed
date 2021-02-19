@@ -34,13 +34,17 @@ Operations activities: 3-print the prothesics, build the prothesic once it is pr
     *4.Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.See more occupations related to this task.
    *5.Monitor work productivity or quality to ensure compliance with standard operating procedures.
 * Is this job routine? Your judgment (0-10): 6, because even if the manager have to manage the information of diverse patients with different pathologies and different needs, the managerial tasks don't change.
-* Is this job cognitive? Your judgment (0-10): 9, because the manager need to use more the intelectual skills rather than the physical
+* Is this job cognitive? Your judgment (0-10): 9, because the manager needs to use more the intelectual skills rather than the physical ones.
 * 5 most important skills they require to possess (provide the importance score, in Details): Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
 Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
 Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
 Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
 Writing — Communicating effectively in writing as appropriate for the needs of the audience
-* 5 technology skills:
+* 5 technology skills: Analytical or scientific software — Electronic data capture EDC software; IBM SPSS Statistics Hot technology ; Oracle Remote Data Capture; SAS Hot technologySee more occupations related to this technology.
+Data base reporting software — Oracle SQL Loader; SAP BusinessObjects Crystal Reports; SAP Crystal Reports Hot technologySee more occupations related to this technology.
+Data base user interface and query software — Clinical trial management software; Microsoft Access Hot technology ; Patient tracking software; Phase Forward ClintrialSee more occupations related to this technology.
+Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software Hot technologySee more occupations related to this technology.
+Object or component oriented development software
 * Education:
 * Wages:
 * Top industry:
