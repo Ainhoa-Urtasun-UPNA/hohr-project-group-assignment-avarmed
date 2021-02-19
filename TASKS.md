@@ -46,7 +46,7 @@ Data base user interface and query software — Clinical trial management softwa
 Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software Hot technologySee more occupations related to this technology.
 Object or component oriented development software
 * Education: Bachelor's degree, Associate's degree, Post-baccalaureate certificate
-* Wages:
+* Wages: $45.33 hourly, $94,280 annual  
 * Top industry:
 ### Engineers
 * ONET-SOC code and title:
