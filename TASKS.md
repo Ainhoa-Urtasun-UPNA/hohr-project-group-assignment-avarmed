@@ -28,14 +28,18 @@ Operations activities: 3-print the prothesics, build the prothesic once it is pr
 ### Managers
 * ONET-SOC code and title: 15-2051.02 - Clinical Data Managers
 * 5 most important tasks they carry out (provide the importance score, in Details): 
-    *1.Design and validate clinical databases, including designing or testing logic checks.See more occupations related to this task. 
-    *2.Process clinical data, including receipt, entry, verification, or filing of information.See more occupations related to this task.
-    *3.Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.See more occupations related to this task.
+    *.Design and validate clinical databases, including designing or testing logic checks.See more occupations related to this task. 
+    *.Process clinical data, including receipt, entry, verification, or filing of information.See more occupations related to this task.
+    *.Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.See more occupations related to this task.
     *4.Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.See more occupations related to this task.
    *5.Monitor work productivity or quality to ensure compliance with standard operating procedures.
-* Is this job routine? Your judgment (0-10): 6, because even if you have to be with patients that have different problem, the work and the task of the manager doesn't change.
-* Is this job cognitive? Your judgment (0-10): 9, because the skills ou must use is more related with 
-* 5 most important skills they require to possess (provide the importance score, in Details):
+* Is this job routine? Your judgment (0-10): 6, because even if the manager have to manage the information of diverse patients with different pathologies and different needs, the managerial tasks don't change.
+* Is this job cognitive? Your judgment (0-10): 9, because the manager need to use more the intelectual skills rather than the physical
+* 5 most important skills they require to possess (provide the importance score, in Details): Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
+Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
+Writing — Communicating effectively in writing as appropriate for the needs of the audience
 * 5 technology skills:
 * Education:
 * Wages:
