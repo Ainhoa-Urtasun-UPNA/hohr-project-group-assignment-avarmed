@@ -42,60 +42,62 @@ Operations activities: 3-print the prothesics, build the prothesic once it is pr
    * Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
    * Writing — Communicating effectively in writing as appropriate for the needs of the audience
 * 5 technology skills: 
-* Analytical or scientific software 
-* — Electronic data capture EDC software; IBM SPSS Statistics Hot technology ; Oracle Remote Data Capture; SAS Hot technologySee more occupations related to this technology.
-Data base reporting software
-— Oracle SQL Loader; SAP BusinessObjects Crystal Reports; SAP Crystal Reports Hot technologySee more occupations related to this technology.
-Data base user interface and query software — Clinical trial management software; Microsoft Access Hot technology ; Patient tracking software; Phase Forward ClintrialSee more occupations related to this technology.
-Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software Hot technology
+   * Analytical or scientific software 
+   * Electronic data capture EDC software; IBM SPSS Statistics Hot technology ; Oracle Remote Data Capture; SAS Hot technology
+   * Data base reporting software —Oracle SQL Loader; SAP BusinessObjects Crystal Reports; SAP Crystal Reports Hot technology
+   * Data base user interface and query software — Clinical trial management software; Microsoft Access Hot technology ; Patient tracking software; Phase Forward Clintrial
+   * Medical software — Allscripts; Epic Systems Hot technology ; MEDITECH software Hot technology
 * Education: Bachelor's degree, Associate's degree, Post-baccalaureate certificate
 * Wages: $45.33 hourly, $94,280 annual  
 * Top industry: Professional, Scientific, and Technical Services
 Finance and Insurance
 ### Engineers
 * ONET-SOC code and title: 17-2031.00 - Bioengineers and Biomedical Engineers
-* 5 most important tasks they carry out (provide the importance score, in Details): Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals.See more occupations related to this task.
-Adapt or design computer hardware or software for medical science uses.See more occupations related to this task.
-Evaluate the safety, efficiency, and effectiveness of biomedical equipment.See more occupations related to this task.
-Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.See more occupations related to this task.
-Research new materials to be used for products, such as implanted artificial organs.  
+* 5 most important tasks they carry out (provide the importance score, in Details): 
+   * Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals.
+   * Adapt or design computer hardware or software for medical science uses.
+   * Evaluate the safety, efficiency, and effectiveness of biomedical equipment.
+   * Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.
+   * Research new materials to be used for products, such as implanted artificial organs.  
 * Is this job routine? Your judgment (0-10): 4/10 because even though they have to follow a method, their work consists on solving different problems, so they cannot stablish a routine for performing their tasks.
 * Is this job cognitive? Your judgment (0-10): 5/10 because they have to use software that is already programmed, but they have to adapt those software to the information and data they are given. 
-* 5 most important skills they require to possess (provide the importance score, in Details): Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
-Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
-Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.See more occupations related to this skill.
-Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.See more occupations related to this skill.
-Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
-* 5 technology skills: Analytical or scientific software — ANSYS; SAS Hot technology ; Stratasys FDM MedModeler; The MathWorks MATLAB Hot technologySee more occupations related to this technology.
-Computer aided design CAD software Hot technology — Autodesk AutoCAD Hot technology ; Dassault Systemes SOLIDWORKS Hot technology ; PTC Creo Elements/Pro; ZukenSee more occupations related to this technology.
-Development environment software — Hardware description language HDL; Integrated development environment IDE software Hot technology ; Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technologySee more occupations related to this technology.
-Medical software — Electromyograph analysis software; Gait analysis software; Medical information software; Virtual instrument softwareSee more occupations related to this technology.
-Operating system software — Linux Hot technology ; Microsoft operating system; Microsoft Windows Hot technology ; Red Hat Enterprise Linux Hot technology
+* 5 most important skills they require to possess (provide the importance score, in Details): 
+   * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+   * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+   * Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+   * Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
+   * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+* 5 technology skills: 
+   * Analytical or scientific software — ANSYS; SAS Hot technology ; Stratasys FDM MedModeler; The MathWorks MATLAB Hot technology
+   * Computer aided design CAD software Hot technology — Autodesk AutoCAD Hot technology ; Dassault Systemes SOLIDWORKS Hot technology ; PTC Creo Elements/Pro; Zuken
+   * Development environment software — Hardware description language HDL; Integrated development environment IDE software Hot technology ; Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technology
+   * Medical software — Electromyograph analysis software; Gait analysis software; Medical information software; Virtual instrument software
+   * Operating system software — Linux Hot technology ; Microsoft operating system; Microsoft Windows Hot technology ; Red Hat Enterprise Linux Hot technology
 * Education: Bachelor's degree/ Master's Degree / Doctoral Degree
 * Wages: $43.95 hourly, $91,410 annual
 * Top industry: Manufacturing, Professional, Scientific, and Technical Services
 ### Operators
 * ONET-SOC code and title: 29-2034.00 - Radiologic Technologists and Technicians
 * 5 most important tasks they carry out (provide the importance score, in Details):
-1. Review and evaluate developed x-rays, video tape, or computer-generated information to determine if images are satisfactory for diagnostic purposes.
-2. Operate or oversee operation of radiologic or magnetic imaging equipment to produce images of the body for diagnostic purposes.
-3. Position patient on examining table and set up and adjust equipment to obtain optimum view of specific body area as requested by physician.
-4. Process exposed radiographs using film processors or computer generated methods.
-5. Use radiation safety measures and protection devices to comply with government regulations and to ensure safety of patients and staff.
+   * Review and evaluate developed x-rays, video tape, or computer-generated information to determine if images are satisfactory for diagnostic purposes.
+   * Operate or oversee operation of radiologic or magnetic imaging equipment to produce images of the body for diagnostic purposes.
+   * Position patient on examining table and set up and adjust equipment to obtain optimum view of specific body area as requested by physician.
+   * Process exposed radiographs using film processors or computer generated methods.
+   * Use radiation safety measures and protection devices to comply with government regulations and to ensure safety of patients and staff.
 * Is this job routine? Your judgment (0-10): 7. Even if technically complex, these operators work upon processes that are predetermined. They only need to have the knowledge to carry that process out for each pacient, facing different medical issues, all within their area of expertise. 
 * Is this job cognitive? Your judgment (0-10): 3. Despite that each pacient will mean the need for a different diagnose, and that many will present medical particularities that will require cognitive efforts to diagnose, they do not need to invent, or be creative in almost any way. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
-1. Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
-2. Speaking — Talking to others to convey information effectively.
-3. Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
-4. Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
-5. Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.
+   * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+   * Speaking — Talking to others to convey information effectively.
+   * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+   * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+   * Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.
 * 5 technology skills:
-1. Categorization or classification software — Diagnostic and procedural coding software
-2. Medical software — Information management subsystem software; Medical procedure coding software; MEDITECH software Hot technology ; Virtual reality computed tomography CT imaging software
-3. Office suite software 
-4. Spreadsheet software 
-5. Word processing software
+   * Categorization or classification software — Diagnostic and procedural coding software
+   * Medical software — Information management subsystem software; Medical procedure coding software; MEDITECH software Hot technology ; Virtual reality computed tomography CT imaging software
+   * Office suite software 
+   * Spreadsheet software 
+   * Word processing software
 * Education: Medium Preparation Needed. Most occupations in this zone require training in vocational schools, related on-the-job experience, or an associate's degree.
 * Wages: Median wages (2019)	$29.09 hourly, $60,510 annual
 * Top industry: Health Care and Social Assistance
