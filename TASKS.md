@@ -75,15 +75,30 @@ Operating system software — Linux Hot technology ; Microsoft operating system;
 * Wages:
 * Top industry:
 ### Operators
-* ONET-SOC code and title:
+* ONET-SOC code and title: 29-2034.00 - Radiologic Technologists and Technicians
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+1. Review and evaluate developed x-rays, video tape, or computer-generated information to determine if images are satisfactory for diagnostic purposes.
+2. Operate or oversee operation of radiologic or magnetic imaging equipment to produce images of the body for diagnostic purposes.
+3. Position patient on examining table and set up and adjust equipment to obtain optimum view of specific body area as requested by physician.
+4. Process exposed radiographs using film processors or computer generated methods.
+5. Use radiation safety measures and protection devices to comply with government regulations and to ensure safety of patients and staff.
+* Is this job routine? Your judgment (0-10): 7. Even if technically complex, these operators work upon processes that are predetermined. They only need to have the knowledge to carry that process out for each pacient, facing different medical issues, all within their area of expertise. 
+* Is this job cognitive? Your judgment (0-10): 3. Despite that each pacient will mean the need for a different diagnose, and that many will present medical particularities that will require cognitive efforts to diagnose, they do not need to invent, or be creative in almost any way. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
+1. Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+2. Speaking — Talking to others to convey information effectively.
+3. Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+4. Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+5. Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.
 * 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+1. Categorization or classification software — Diagnostic and procedural coding software
+2. Medical software — Information management subsystem software; Medical procedure coding software; MEDITECH software Hot technology ; Virtual reality computed tomography CT imaging software
+3. Office suite software 
+4. Spreadsheet software 
+5. Word processing software
+* Education: Most occupations in this zone require training in vocational schools, related on-the-job experience, or an associate's degree.
+* Wages: Median wages (2019)	$29.09 hourly, $60,510 annual
+* Top industry: Health Care and Social Assistance
 ***
 
 ## Task 3
