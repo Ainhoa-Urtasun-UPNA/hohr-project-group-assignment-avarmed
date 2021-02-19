@@ -33,7 +33,7 @@ Operations activities: 3-print the prothesics, build the prothesic once it is pr
     * Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.See more occupations related to this task.
     * Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.See more occupations related to this task.
    * Monitor work productivity or quality to ensure compliance with standard operating procedures.
-* Is this job routine? Your judgment (0-10): 6, because even if the manager have to manage the information of diverse patients with different pathologies and different needs, the managerial tasks don't change.
+* Is this job routine? Your judgment (0-10): 7, because even if the manager have to manage the information of diverse patients with different pathologies and different needs, the managerial tasks don't change.
 * Is this job cognitive? Your judgment (0-10): 9, because the manager needs to use more the intelectual skills rather than the physical ones.
 * 5 most important skills they require to possess (provide the importance score, in Details): 
    * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
@@ -59,8 +59,8 @@ Adapt or design computer hardware or software for medical science uses.See more 
 Evaluate the safety, efficiency, and effectiveness of biomedical equipment.See more occupations related to this task.
 Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.See more occupations related to this task.
 Research new materials to be used for products, such as implanted artificial organs.  
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+* Is this job routine? Your judgment (0-10): 4/10 because even though they have to follow a method, their work consists on solving different problems, so they cannot stablish a routine for performing their tasks.
+* Is this job cognitive? Your judgment (0-10): 5/10 because they have to use software that is already programmed, but they have to adapt those software to the information and data they are given. 
 * 5 most important skills they require to possess (provide the importance score, in Details): Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
 Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
 Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.See more occupations related to this skill.
@@ -71,9 +71,9 @@ Computer aided design CAD software Hot technology — Autodesk AutoCAD Hot techn
 Development environment software — Hardware description language HDL; Integrated development environment IDE software Hot technology ; Microsoft Visual Basic Hot technology ; National Instruments LabVIEW Hot technologySee more occupations related to this technology.
 Medical software — Electromyograph analysis software; Gait analysis software; Medical information software; Virtual instrument softwareSee more occupations related to this technology.
 Operating system software — Linux Hot technology ; Microsoft operating system; Microsoft Windows Hot technology ; Red Hat Enterprise Linux Hot technology
-* Education: Bachelor's degree/ 
-* Wages:
-* Top industry:
+* Education: Bachelor's degree/ Master's Degree / Doctoral Degree
+* Wages: $43.95 hourly, $91,410 annual
+* Top industry: Manufacturing, Professional, Scientific, and Technical Services
 ### Operators
 * ONET-SOC code and title: 29-2034.00 - Radiologic Technologists and Technicians
 * 5 most important tasks they carry out (provide the importance score, in Details):
