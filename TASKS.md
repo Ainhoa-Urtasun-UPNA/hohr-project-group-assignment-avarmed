@@ -110,7 +110,9 @@ Finance and Insurance
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 
-__Results:__ By using the details provided, and changing the historical data to match our firms' -that meaning, having 1 manager, 2 engeneers, and 2 operators- we have determined that we expect to have 1 manager, 1 engeneer and 3 operators a year from now. In order to get this, we have to point out 
+__Results:__ The data above refers to the corporation in which the five of us used to work as of January, 2021. After we decided to leave, and founded a company of our own, we still observed and recorded the evolution of their labour force. As ours is a company in the very same indistrial sector, and running under similar circumstances, the historical data of that company can serve as representative of ours too, if modified to fit our proportions.
+
+By using the details provided, and changing the historical data to match our firms' -that meaning, having 1 manager, 2 engeneers, and 2 operators- we have determined that we expect to have 1 manager, 1 engeneer and 3 operators a year from now. In order to get this, we have to point out 
 ***
 
 ## Task 4
