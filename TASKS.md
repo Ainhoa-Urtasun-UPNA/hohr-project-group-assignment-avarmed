@@ -122,7 +122,7 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 
-Taking into account the unemployment data from the last three years and  data for the firms’ need for workers,  we have estimated the following linear model
+__Results:__ Taking into account the unemployment data from the last three years and  data for the firms’ need for workers,  we have estimated the following linear model
 y = -0.1x  + 6.53managers  + 8.23engineers + 15.16operators
 
 Using this model and considering the unemployment prediction rates, we have come to the conclusion that we will need 6 managers, 8 engineers, 13 operators in a year from now.
