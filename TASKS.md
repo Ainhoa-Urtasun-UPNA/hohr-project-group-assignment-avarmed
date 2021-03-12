@@ -110,9 +110,9 @@ Finance and Insurance
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 
-__Results:__ The data above refers to the corporation in which the five of us used to work as of January, 2021. After we decided to leave, and founded a company of our own, we still observed and recorded the evolution of their labour force. As ours is a company in the very same indistrial sector, and running under similar circumstances, the historical data of that company can serve as representative of ours too, if modified to fit our proportions.
+__Results:__ The data above refers to the corporation in which the five of us used to work as of January, 2021. After we decided to leave, and founded a company of our own, we still observed and recorded the evolution of their labour force. As ours is a company in the very same industrial sector, and running under similar circumstances, the historical data of that company can serve as representative of ours too, if modified to fit our proportions.
 
-By using the details provided, and changing the historical data to match our firms' -that meaning, having 1 manager, 2 engeneers, and 2 operators- we have determined that we expect to have 1 manager, 1 engeneer and 3 operators a year from now. In order to get this, we have to point out 
+By using the details provided, and changing the historical data to match our firms' -that meaning, having 1 manager, 2 engineers, and 2 operators- we have determined that we expect to have 1 manager, 1 engineer and 3 operators a year from now. In order to get this, we have to point out 
 ***
 
 ## Task 4
@@ -121,6 +121,14 @@ By using the details provided, and changing the historical data to match our fir
 Last three years data on unemployment for managers was 15%, 17% and 14% for managers; 6%, 6%, 5% for engineers; and 23%, 27%, and 25% for operators. Last three years, the need for workers on average and per firm was 4, 6, 5 for managers; 13, 12, 13 for engineers; and 7, 7, 9 for operators. Using this information, predict how many workers your company will need in one year from now for each of its 3 occupations if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators. 
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
+
+Taking into account the unemployment data from the last three years and  data for the firms’ need for workers,  we have estimated the following linear model
+y = -0.1x  + 6.53managers  + 8.23engineers + 15.16operators
+
+Using this model and considering the unemployment prediction rates, we have come to the conclusion that we will need 6 managers, 8 engineers, 13 operators in a year from now.
+
+By contrasting our previous results (obtained in Task 3 and Task 4), we learn that, under current predictions, we estimate to have a shortage of 5 managers, 7 engineers and 10 operators at the beggining of 2022. That expected shortage can be alleviated or even remedied via three different methods. First, it would be wise to hire as many employees as possible for each of those jobs, until the shortage is covered. If this could not be done on time, workweek (that is, working hours per week and employee) of current employees should be extended as far as national legislation allows. Were these two measures insufficient to cope with our predicted needs, we should consider asking available workers to spend overtime (and therefore paid) hours, so no working task risks being left undone.
+
 ***
 
 ## Task 5
