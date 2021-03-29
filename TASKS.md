@@ -135,11 +135,22 @@ By contrasting our previous results (obtained in Task 3 and Task 4), we learn th
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers: 
-Job title
-Occupation (SOC label and code)
-Industry (NAICS title and code)
-List of tasks List of skills
-Required credentials and years of experience
+Job title: Clinical Data Managers
+Occupation (SOC label and code): 15-2051.02
+Industry (NAICS title and code): 
+List of tasks: 
+    * Design and validate clinical databases, including designing or testing logic checks. 
+    * Process clinical data, including receipt, entry, verification, or filing of information.
+    * Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.
+    * Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.S
+    * Monitor work productivity or quality to ensure compliance with standard operating procedures.  
+List of skills: 
+ * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+   * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+   * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+   * Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
+   * Writing — Communicating effectively in writing as appropriate for the needs of the audience
+Required credentials and years of experience:  Bachelor's degree, Associate's degree, Post-baccalaureate certificate
 Job type (full-time, part-time)
 Location
 Salary, benefits and perks
