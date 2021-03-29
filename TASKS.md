@@ -157,9 +157,10 @@ List of skills:
 
 Required credentials and years of experience:  Bachelor's degree, Associate's degree, Post-baccalaureate certificate
 
+
 Job type (full-time, part-time): Full-time
 
-Location: Pamplona 
+Location: Madrid 
 
 Salary, benefits and perks: 3100e/month + legal insurrance + felxible schedule
 ***
@@ -188,7 +189,7 @@ Required credentials and years of experience:
 
 Job type (full-time, part-time): full time
 
-Location: Pamplona
+Location: Madrid
 
 Salary, benefits and perks: 2800€7 month 
 ***
