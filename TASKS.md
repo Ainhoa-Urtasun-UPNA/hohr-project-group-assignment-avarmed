@@ -134,7 +134,15 @@ By contrasting our previous results (obtained in Task 3 and Task 4), we learn th
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
-### Job posting for Managers:
+### Job posting for Managers: 
+Job title
+Occupation (SOC label and code)
+Industry (NAICS title and code)
+List of tasks List of skills
+Required credentials and years of experience
+Job type (full-time, part-time)
+Location
+Salary, benefits and perks
 ### Job posting for Engineers:
 ### Job posting for Operators:
 ***
