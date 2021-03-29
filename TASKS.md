@@ -165,34 +165,50 @@ Salary, benefits and perks:
 ***
 ### Job posting for Engineers:
 Job title: Bioengineers and Biomedical Engineers
+
 Occupation (SOC label and code): 17-2031.00 
+
 Industry (NAICS title and code)
+
 List of tasks:
    * Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals.
    * Adapt or design computer hardware or software for medical science uses.
    * Evaluate the safety, efficiency, and effectiveness of biomedical equipment.
    * Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes.
    * Research new materials to be used for products, such as implanted artificial organs.  
+
 List of skills:
    * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
    * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
    * Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
    * Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
    * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+
 Required credentials and years of experience: 
+
 Job type (full-time, part-time): 
+
 Location:
+
 Salary, benefits and perks:
 ***
 ### Job posting for Operators:
 Job title:
+
 Occupation (SOC label and code):
+
 Industry (NAICS title and code):
+
 List of tasks: 
+
 List of skills: 
+
 Required credentials and years of experience:
+
 Job type (full-time, part-time):
+
 Location:
+
 Salary, benefits and perks:
 ***
 
