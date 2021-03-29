@@ -159,9 +159,9 @@ Required credentials and years of experience:  Bachelor's degree, Associate's de
 
 Job type (full-time, part-time): Full-time
 
-Location: 
+Location: Pamplona 
 
-Salary, benefits and perks:
+Salary, benefits and perks: 3100e/month + legal insurrance + felxible schedule
 ***
 ### Job posting for Engineers:
 Job title: Bioengineers and Biomedical Engineers
