@@ -156,7 +156,8 @@ List of skills:
    * Writing — Communicating effectively in writing as appropriate for the needs of the audience
 
 Required credentials and years of experience:  Bachelor's degree, Associate's degree, Post-baccalaureate certificate
-
+English c1, Spanish C1, highly valued german and french
+4 years of experienc in data management
 
 Job type (full-time, part-time): Full-time
 
