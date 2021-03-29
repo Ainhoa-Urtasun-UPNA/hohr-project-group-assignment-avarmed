@@ -151,9 +151,10 @@ List of skills:
    * Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
    * Writing — Communicating effectively in writing as appropriate for the needs of the audience
 Required credentials and years of experience:  Bachelor's degree, Associate's degree, Post-baccalaureate certificate
-Job type (full-time, part-time): 
+Job type (full-time, part-time): Full-time
 Location: 
-Salary, benefits and perks
+Salary, benefits and perks:
+***
 ### Job posting for Engineers:
 Job title: Bioengineers and Biomedical Engineers
 Occupation (SOC label and code): 17-2031.00 
@@ -171,19 +172,20 @@ List of skills:
    * Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one.
    * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
 Required credentials and years of experience: 
+Job type (full-time, part-time): 
+Location:
+Salary, benefits and perks:
+***
+### Job posting for Operators:
+Job title:
+Occupation (SOC label and code):
+Industry (NAICS title and code):
+List of tasks: 
+List of skills: 
+Required credentials and years of experience:
 Job type (full-time, part-time):
 Location:
 Salary, benefits and perks:
-### Job posting for Operators:
-Job title
-Occupation (SOC label and code)
-Industry (NAICS title and code)
-List of tasks: 
-List of skills: 
-Required credentials and years of experience
-Job type (full-time, part-time)
-Location
-Salary, benefits and perks
 ***
 
 ## Task 6
