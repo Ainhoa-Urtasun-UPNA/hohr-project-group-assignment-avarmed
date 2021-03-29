@@ -186,11 +186,11 @@ List of skills:
 
 Required credentials and years of experience: 
 
-Job type (full-time, part-time): 
+Job type (full-time, part-time): full time
 
-Location:
+Location: Pamplona
 
-Salary, benefits and perks:
+Salary, benefits and perks: 2800€7 month 
 ***
 ### Job posting for Operators:
 Job title:
@@ -209,7 +209,7 @@ Job type (full-time, part-time):
 
 Location:
 
-Salary, benefits and perks:
+Salary, benefits and perks: 
 ***
 
 ## Task 6
