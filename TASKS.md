@@ -144,7 +144,23 @@ Job type (full-time, part-time)
 Location
 Salary, benefits and perks
 ### Job posting for Engineers:
+Job title
+Occupation (SOC label and code)
+Industry (NAICS title and code)
+List of tasks List of skills
+Required credentials and years of experience
+Job type (full-time, part-time)
+Location
+Salary, benefits and perks
 ### Job posting for Operators:
+Job title
+Occupation (SOC label and code)
+Industry (NAICS title and code)
+List of tasks List of skills
+Required credentials and years of experience
+Job type (full-time, part-time)
+Location
+Salary, benefits and perks
 ***
 
 ## Task 6
