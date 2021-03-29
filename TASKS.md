@@ -157,13 +157,13 @@ List of skills:
 
 Required credentials and years of experience:  Bachelor's degree, Associate's degree, Post-baccalaureate certificate
 English c1, Spanish C1, highly valued german and french
-4 years of experienc in data management
+4 years of experience in data management
 
 Job type (full-time, part-time): Full-time
 
 Location: Madrid 
 
-Salary, benefits and perks: 3100e/month + legal insurrance + felxible schedule
+Salary, benefits and perks: 3100€/month + legal insurrance + felxible schedule
 ***
 ### Job posting for Engineers:
 Job title: Bioengineers and Biomedical Engineers
@@ -187,6 +187,7 @@ List of skills:
    * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
 
 Required credentials and years of experience: 
+Experience with analytical and scientific knowledge, knowledge with 3D printing
 
 Job type (full-time, part-time): full time
 
