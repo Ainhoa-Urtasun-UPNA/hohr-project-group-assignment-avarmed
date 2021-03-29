@@ -196,19 +196,30 @@ Location: Madrid
 Salary, benefits and perks: 2800€/ month 
 ***
 ### Job posting for Operators:
+
 Job title: Radiologic Technologists and Technicians
+
 Occupation (SOC label and code): 29-2034.00
+
 Industry (NAICS title and code):  339113
+
 List of tasks List of skills: 
 •	Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+
 •	Speaking — Talking to others to convey information effectively.
+
 •	Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+
 •	Categorization or classification software — Diagnostic and procedural coding software
+
 •	Medical software — Information management subsystem software; Medical procedure coding software; MEDITECH software; Virtual reality computed tomography CT imaging software
+
 •	Office suite software, and spreadsheet software
 
 •	Review and evaluate developed x-rays, video tape, or computer-generated information to determine if images are satisfactory for diagnostic purposes.
+
 •	Position patient on examining table and set up and adjust equipment to obtain optimum view of specific body area as requested by physician.
+
 •	Process exposed radiographs using film processors or computer-generated methods.
 
 Required credentials and years of experience:
