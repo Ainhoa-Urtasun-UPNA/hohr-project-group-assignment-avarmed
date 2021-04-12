@@ -210,7 +210,7 @@ Industry (NAICS title and code):  339113
 We offer 8 such vacancies, even though we realise that our shortage is of 10 operators. We have been moved to this decision due to the risk of automation of heath technologists and technicians being higher than what we originally expected. As of April 2021, the foreseen risk of automation of this job is considered "mid risk" (40%), although slightly closer to lower levels than to higher ones. However, we consider that a mid risk is noticeable enough for us to take action, and to confidently expect that we will be able to implement technology capable of performing the tasks attributed to two operators in a less-costly manner. 
 
 List of tasks:
-  Categorization or classification software — Diagnostic and procedural coding software
+   *  Categorization or classification software — Diagnostic and procedural coding software
    *	Medical software — Information management subsystem software; Medical procedure coding software; MEDITECH software; Virtual reality computed tomography CT imaging software
    *	Office suite software, and spreadsheet software
    *	Review and evaluate developed x-rays, video tape, or computer-generated information to determine if images are satisfactory for diagnostic purposes.
