@@ -10,7 +10,7 @@ We are a company from Pamplona, Navarre. We are specialized in external prosthet
 
 ![Image](https://raw.githubusercontent.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/gh-pages/avarmed.jpg)
 
-![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/avarmed2.jpg)
+![Image](avarmed2.jpg)
 
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
