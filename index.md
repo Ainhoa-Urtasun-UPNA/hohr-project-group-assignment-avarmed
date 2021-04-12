@@ -60,4 +60,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # Job offers
 We are looking forward to working with you!
-![Image](1.jpg)
+![Image](vik definitiva manager true.jpeg)
