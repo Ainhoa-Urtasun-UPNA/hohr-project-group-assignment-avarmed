@@ -1,7 +1,6 @@
 # Avarmed
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdominios-encantados.fandom.com%2Fes%2Fwiki%2FCapit%25C3%25A1n_James_Garfio&psig=AOvVaw0-C2czFWS1fo7Wtvtq1Oij&ust=1618321940416000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiyw7rt-O8CFQAAAAAdAAAAABAK)
-
+![Image](https://static.wikia.nocookie.net/dominios-encantados/images/f/f8/Nada_050.png/revision/latest/scale-to-width-down/533?cb=20141025163610&path-prefix=es)
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
