@@ -20,6 +20,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 We started blablabla.
 Due to the pandemic, blablabla
 
+# News
+We have received a fund from the EU: ECO funds. An we ar super japi
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
