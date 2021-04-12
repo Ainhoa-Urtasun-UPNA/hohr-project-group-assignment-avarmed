@@ -191,7 +191,7 @@ List of skills:
    * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
 
 Required credentials and years of experience: 
-Experience with analytical and scientific knowledge, knowledge with 3D printing
+Experience with analytical and scientific knowledge, knowledge with 3D printing. 5 years of experience are required. 
 
 Job type (full-time, part-time): full time
 
