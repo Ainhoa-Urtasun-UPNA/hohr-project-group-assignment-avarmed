@@ -54,3 +54,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # Our team
 ![Image]()
+
+# Job offers
+We are looking forward to working with you!
+![Image]()
