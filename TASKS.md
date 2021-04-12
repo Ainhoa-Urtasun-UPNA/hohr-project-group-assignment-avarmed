@@ -112,7 +112,7 @@ You plan to start hiring workers next year. During this very first year, you are
 
 __Results:__ The data above refers to the corporation in which the five of us used to work as of January, 2021. After we decided to leave, and founded a company of our own, we still observed and recorded the evolution of their labour force. As ours is a company in the very same industrial sector, and running under similar circumstances, the historical data of that company can serve as representative of ours too, if modified to fit our proportions.
 
-By using the details provided, and changing the historical data to match our firms' -that meaning, having 1 manager, 2 engineers, and 2 operators- we have determined that we expect to have 1 manager, 1 engineer and 3 operators a year from now. In order to get this, we have to point out 
+By using the details provided, and changing the historical data to match our firms' -that meaning, having 1 manager, 2 engineers, and 2 operators- we have determined that we expect to have 1 manager, 1 engineer and 3 operators a year from now.  
 ***
 
 ## Task 4
