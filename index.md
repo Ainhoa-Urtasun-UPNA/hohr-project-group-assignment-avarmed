@@ -2,7 +2,9 @@
 
 ![Image](https://tmlbonline.com/wp-content/uploads/2016/04/childrens-prosthetics-tucson-300x300.jpg)
 
-
+We are a company from Pamplona, Navarre. We are specialized in external prosthetics. We work with the latest technology in 3D printing, with innovative and personal designs for every patients' needs.
+ 
+ We are commited with social responsibility and equity, working as volunteers helping least developed countries with our prosthetics. 
 
 ![Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/15/18/pg-24-ballet-amputee-1-eptv.jpg?width=990&auto=webp&quality=75)
 
@@ -13,6 +15,10 @@
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+# History
+We started blablabla.
+Due to the pandemic, blablabla
 
 ### Markdown
 
