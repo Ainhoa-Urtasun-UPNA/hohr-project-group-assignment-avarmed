@@ -139,7 +139,9 @@ Job title: Clinical Data Managers
 
 Occupation (SOC label and code): 15-2051.02
 
-Industry (NAICS title and code): 
+Industry (NAICS title and code): 339113
+
+We predicted that we are going to have a shortage of 5 managers. The risk of automation for clinical managers is very low (1%), and therefore we are going to stablish 5 vacancies for this job.
 
 List of tasks: 
     * Design and validate clinical databases, including designing or testing logic checks. 
@@ -170,7 +172,9 @@ Job title: Bioengineers and Biomedical Engineers
 
 Occupation (SOC label and code): 17-2031.00 
 
-Industry (NAICS title and code)
+Industry (NAICS title and code): 339113
+
+We predicted that we will have a shortage of 7 engineers. Given that the risk of automation of these type of job is very low (4%), we are going to keep this number and offer 7 vacancies for engineers.
 
 List of tasks:
    * Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals.
@@ -203,7 +207,7 @@ Occupation (SOC label and code): 29-2034.00
 
 Industry (NAICS title and code):  339113
 
-We offer 8 such vacancies, even though we realise that our shortage is of 10 operators. We have been moved to this decision due to the risk of automation of heath technologists and technicians being higher than what we originally expected. As of April 2021, the foreseen risk of automation of this job is considered "mid risk", although slightly closer to lower levels than to higher ones. However, we consider that a mid risk is noticeable enough for us to take action, and to confidently expect that we will be able to implement technology capable of performing the tasks attributed to two operators in a less-costly manner. 
+We offer 8 such vacancies, even though we realise that our shortage is of 10 operators. We have been moved to this decision due to the risk of automation of heath technologists and technicians being higher than what we originally expected. As of April 2021, the foreseen risk of automation of this job is considered "mid risk" (40%), although slightly closer to lower levels than to higher ones. However, we consider that a mid risk is noticeable enough for us to take action, and to confidently expect that we will be able to implement technology capable of performing the tasks attributed to two operators in a less-costly manner. 
 
 List of tasks List of skills: 
    *	Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
