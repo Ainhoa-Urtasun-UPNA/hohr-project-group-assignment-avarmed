@@ -4,6 +4,10 @@
 
 ![Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/15/18/pg-24-ballet-amputee-1-eptv.jpg?width=990&auto=webp&quality=75)
 
+![Image](https://raw.githubusercontent.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/gh-pages/avarmed.jpg)
+
+![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/avarmed2.jpg)
+
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
