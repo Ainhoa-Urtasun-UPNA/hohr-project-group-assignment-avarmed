@@ -144,18 +144,18 @@ Industry (NAICS title and code): 339113
 We predicted that we are going to have a shortage of 5 managers. The risk of automation for clinical managers is very low (1%), and therefore we are going to stablish 5 vacancies for this job.
 
 List of tasks: 
-    * Design and validate clinical databases, including designing or testing logic checks. 
-    * Process clinical data, including receipt, entry, verification, or filing of information.
-    * Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.
-    * Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.S
-    * Monitor work productivity or quality to ensure compliance with standard operating procedures.  
+  * Design and validate clinical databases, including designing or testing logic checks. 
+  * Process clinical data, including receipt, entry, verification, or filing of information.
+  * Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.
+  * Develop project-specific data management plans that address areas such as coding, reporting, or transfer of data, database locks, and work flow processes.
+  * Monitor work productivity or quality to ensure compliance with standard operating procedures.  
 
 List of skills: 
  * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
-   * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
-   * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
-   * Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
-   * Writing — Communicating effectively in writing as appropriate for the needs of the audience
+ * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+ * Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+ * Speaking — Talking to others to convey information effectively.See more occupations related to this skill.
+ * Writing — Communicating effectively in writing as appropriate for the needs of the audience
 
 Required credentials and years of experience:  Bachelor's degree, Associate's degree, Post-baccalaureate certificate
 English C1, Spanish C1, highly valued german and french
@@ -209,10 +209,12 @@ Industry (NAICS title and code):  339113
 
 We offer 8 such vacancies, even though we realise that our shortage is of 10 operators. We have been moved to this decision due to the risk of automation of heath technologists and technicians being higher than what we originally expected. As of April 2021, the foreseen risk of automation of this job is considered "mid risk" (40%), although slightly closer to lower levels than to higher ones. However, we consider that a mid risk is noticeable enough for us to take action, and to confidently expect that we will be able to implement technology capable of performing the tasks attributed to two operators in a less-costly manner. 
 
-List of tasks List of skills: 
+List of tasks:
    *	Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
    *	Speaking — Talking to others to convey information effectively.
    *	Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+  
+List of skills:
    *	Categorization or classification software — Diagnostic and procedural coding software
    *	Medical software — Information management subsystem software; Medical procedure coding software; MEDITECH software; Virtual reality computed tomography CT imaging software
    *	Office suite software, and spreadsheet software
