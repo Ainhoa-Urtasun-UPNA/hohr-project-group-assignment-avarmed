@@ -1,6 +1,9 @@
 # Avarmed
 
 ![Image](https://static.wikia.nocookie.net/dominios-encantados/images/f/f8/Nada_050.png/revision/latest/scale-to-width-down/533?cb=20141025163610&path-prefix=es)
+
+![Image](https://tmlbonline.com/wp-content/uploads/2016/04/childrens-prosthetics-tucson-300x300.jpg)
+
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
