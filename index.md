@@ -53,13 +53,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 2) **Sorting and screening out job candidates happens**
 
-   Resume and credentials
+   -Resume and credentials
 
-   Psychotechnical exam 
+   -Psychotechnical exam 
 
-   Interview
+   -Interview
 
-   Practical part
+   -Practical part
 
 3) **Onboarding**
 
