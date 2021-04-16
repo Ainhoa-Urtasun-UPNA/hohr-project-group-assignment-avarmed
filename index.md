@@ -49,17 +49,19 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Recruitment Process:
 
-1) Job posting where the employer starts recruiting for the job opening for which there is work available by advertising a description of the job.
+1) **Job posting**
 
-2) Sorting and screening out job candidates happens. Here is where the Hiring process begins:
+2) **Sorting and screening out job candidates happens**
 
-In the first step, the candidates that want to postulate to our vacancies have to submit a resume and credentials, which are documents, certifying the person’s skills.
-Then, every candidate has to complete a psychotechnical exam in order for us to measure their behaviors, abilities and skills. This is done to know if they possess the qualities necessary to perform the job 
-The third step consists in an interview.  Here, we will be explaining in detail the job and the tasks the candidate will have to perform in case he/her is hired. In this part we will also ask some general, open questions to get to know them better, and analyze their interaction skills.
-After that, the last step will be a practical part. The applicant will solve some practical problems and cases that could be presented in their “future” job.
+Resume and credentials
 
-3)Onboarding. After we decide who to hire and who not to, we communicate the news to the applicants and welcome them to our company.
+Psychotechnical exam 
 
+Interview
+
+Practical part
+
+3) **Onboarding**
 
 ### Support or Contact
 
@@ -72,4 +74,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 We are looking forward to working with you!
 
 ![Image](vik definitiva manager true.jpeg)
-
