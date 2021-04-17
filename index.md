@@ -66,7 +66,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 4) **Onboarding**
 
 ### Job Posting 
-![Image](Jhttps://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/Job%20Postings.png)
+![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/Job%20Postings.png)
 
 ### Support or Contact
 
