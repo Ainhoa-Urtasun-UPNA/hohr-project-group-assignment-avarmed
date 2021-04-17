@@ -66,7 +66,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 4) **Onboarding**
 
 ### Job Posting 
-![Image](Job Postings)
+![Image](Job Postings.png)
 
 ### Support or Contact
 
