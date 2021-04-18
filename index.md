@@ -24,7 +24,7 @@
 
 4) **Onboarding**
 
-### Job Postings:  
+### Work with us!:  
 ![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/89eeeaf4817cfa7ba011cb12c8c856142ea655ee/Job%20Postings.png)
 
 
