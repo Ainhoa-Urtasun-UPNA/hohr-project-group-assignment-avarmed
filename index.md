@@ -1,6 +1,6 @@
 #                                                                               AVARMED
 
-[Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/2866733e4b09286bde9f658ace85f2a11cad44bb/Logo%20slogan%20naics%20avarmed.jpg)
+[Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/8e9f40dec3cbaa2d0ff5a697023ab424df9bedfc/Logo%20slogan%20naics%20avarmed.jpg)
 
 ## About us:
 
