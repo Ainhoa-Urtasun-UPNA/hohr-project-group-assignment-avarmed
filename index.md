@@ -28,8 +28,7 @@
 ![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/89eeeaf4817cfa7ba011cb12c8c856142ea655ee/Job%20Postings.png)
 
 
-
-
+### Luego lo borramos
 
 
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
