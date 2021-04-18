@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/75551e8deacd44ad6452ffcc60e3b5087e56c0be/Logo%20slogan%20naics%20avarmed.jpg)
 
-![Image](https://tmlbonline.com/wp-content/uploads/2016/04/childrens-prosthetics-tucson-300x300.jpg)
+
 
 We are a company from Pamplona, Navarre. We are specialized in external prosthetics. We work with the latest technology in 3D printing, with innovative and personal designs for every patients' needs.
  
