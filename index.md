@@ -1,6 +1,6 @@
 #                                                                               AVARMED
 
-![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/75551e8deacd44ad6452ffcc60e3b5087e56c0be/Logo%20slogan%20naics%20avarmed.jpg)
+![Image](Logo slogan naics avarmed.jpg)
 
 ## About us:
 
