@@ -1,6 +1,6 @@
 #                                                                               AVARMED
 
-![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/664ef75331846953eb66e454d590d98e05d91a60/AVARMED%20LOGO.png)
+![Image](AVARMED LOGO.png)
 
 ![Image](https://tmlbonline.com/wp-content/uploads/2016/04/childrens-prosthetics-tucson-300x300.jpg)
 
