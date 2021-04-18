@@ -1,6 +1,6 @@
 #                                                                               AVARMED
 
-[Image](Logo slogan naics avarmed.jpg)
+![Image](Logo slogan naics avarmed.jpg)
 
 ## About us:
 
