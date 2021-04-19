@@ -4,6 +4,7 @@
 
 ## About us:
 ![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/Primary%20and%20support%20activities.jpg)
+![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/Cognitive%20Routine%20Esquema.jpg)
 
 
 ### Recruitment Process:
