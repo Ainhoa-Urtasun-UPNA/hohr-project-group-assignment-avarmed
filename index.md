@@ -1,6 +1,6 @@
 #                                                                               AVARMED
 
-If the images do not work, please visit: 
+If the images do not work, please visit: https://docs.google.com/presentation/d/1tQ6YnvLIhR6890R4hFa8KOZzscMGlRhlKx-XU9JUlDY/edit?usp=sharing
 
 ![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/facdb207991ae752f47783edab4a7d79892f35f5/Logo%20slogan%20naics%20avarmed.jpg)
 
