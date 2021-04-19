@@ -5,7 +5,7 @@ If the images do not work, please visit: https://docs.google.com/presentation/d/
 ![Image](Logo slogan naics avarmed.jpg)
 
 ## About us:
-![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/Primary%20and%20support%20activities.jpg)
+![Image](Primary and support activities.jpg)
 ![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/Cognitive%20Routine%20Esquema.jpg)
 
 
