@@ -7,7 +7,7 @@ M = numpy.array([[5,2,0],[0,10,0],[5,5,45]])
 b = numpy.array([[1],[2],[2]])
 a = M@numpy.linalg.inv(D)@b
 print("a=", "\n", a, "\n")
-#program credits: Ruti:)
+#code credits: Ruti:)
 
 # Forecasting number of needed workers
 print("\n","TASK 4", "\n")
@@ -24,4 +24,4 @@ print(betas, "\n")
 U = numpy.array([[10,1,0,0],[4,0,1,0],[20,0,0,1]])
 BU = numpy.matmul(U, betas)
 print("\n", "BU=", "\n", BU)
-#program credits: Ruti:)
+#code credits: Ruti:)
