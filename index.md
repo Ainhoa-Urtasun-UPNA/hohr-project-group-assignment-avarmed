@@ -2,7 +2,7 @@
 
 If the images do not work, please visit: https://docs.google.com/presentation/d/1tQ6YnvLIhR6890R4hFa8KOZzscMGlRhlKx-XU9JUlDY/edit?usp=sharing
 
-![Image]( Logo slogan naics avarmed.jpg)
+![Image](Logo slogan naics avarmed.jpg)
 
 ## About us:
 ![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/Primary%20and%20support%20activities.jpg)
