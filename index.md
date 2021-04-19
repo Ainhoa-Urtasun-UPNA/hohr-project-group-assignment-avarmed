@@ -25,9 +25,9 @@
 4) **Onboarding**
 
 ### Work with us!:  
-![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/Job%20Postings.png)
+![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/3b317b99ecb666632c88b2d6b26b76d456ac4d22/Job%20Postings.png)
 
-(https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/60f578c238f2fcd8f167676271c7e58c6c4a66b8/Job%20Postings.png)
+
 
 
 ### Luego lo borramos
