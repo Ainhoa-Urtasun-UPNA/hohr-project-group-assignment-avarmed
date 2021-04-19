@@ -3,7 +3,7 @@
 ![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/facdb207991ae752f47783edab4a7d79892f35f5/Logo%20slogan%20naics%20avarmed.jpg)
 
 ## About us:
-
+![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/Primary%20and%20support%20activities.jpg)
 
 
 ### Recruitment Process:
