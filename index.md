@@ -6,7 +6,7 @@ If the images do not work, please visit: https://docs.google.com/presentation/d/
 
 ## About us:
 ![Image](Primary and support activities.jpg)
-![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/gh-pages/Cognitive%20Routine%20Esquema.jpg)
+![Image](Cognitive Routine Esquema.jpg)
 
 
 ### Recruitment Process:
@@ -31,8 +31,6 @@ If the images do not work, please visit: https://docs.google.com/presentation/d/
 ### Our team and our future
 ![Image](predictionworkers.PNG)
 
-
-![Image](code.PNG)
 
 
 ### Work with us!:  
