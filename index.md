@@ -36,4 +36,4 @@ If the images do not work, please visit: https://docs.google.com/presentation/d/
 
 
 ### Work with us!:  
-![Image](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-avarmed/blob/3b317b99ecb666632c88b2d6b26b76d456ac4d22/Job%20Postings.png)
+![Image](Job Postings.png)
